@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
