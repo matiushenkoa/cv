@@ -31,7 +31,7 @@ Lead UI Engineer specialising in Frontend Platform Engineering, with 12+ years m
 
 - Unified 4+ fragmented tech stacks into a single React/TypeScript platform, doubling frontend developer productivity.
 - Built and scaled a company-wide Design System adopted across 5+ engineering teams.
-- Reduced deployment workflows by **over 85%** by designing a self-service deployment platform.
+- Reduced deployment workflows by over 85% by designing a self-service deployment platform.
 
 
 # Skills
@@ -44,7 +44,7 @@ Frontend Architecture • Platform Engineering • Design Systems • Micro Fron
 ## Lead Software Engineer – Capillary Technologies | May 2026 – Present
 
 - Leading the transformation of a legacy .NET MVC/Razor platform into a modern React/TypeScript microfrontend architecture.
-- Designed a self-service deployment platform, reducing deployment time by **over 85%**, and led adoption of Claude Code across the organisation.
+- Designed a self-service deployment platform, reducing deployment time by over 85%, and led adoption of Claude Code across the organisation.
 
 ## Lead Software Engineer – Mastercard (SessionM) | March 2025 – May 2026
 

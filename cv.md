@@ -41,7 +41,7 @@ I operate at the intersection of engineering, product, and architecture—leadin
 - Led frontend architecture for enterprise customer engagement platforms serving global organisations.
 - Built and scaled a company-wide Design System adopted across 5+ engineering teams.
 - Unified 4+ fragmented tech stacks into a single React/TypeScript platform, doubling frontend developer productivity and improving platform stability, onboarding, and support.
-- Reduced deployment workflows by **over 85%** (≈4 hours → <30 minutes) by designing and building a self-service deployment platform.
+- Reduced deployment workflows by over 85% (≈4 hours → <30 minutes) by designing and building a self-service deployment platform.
 - Led adoption of AI-assisted development, including Claude Code migration and engineering workflow automation.
 - Defined frontend engineering standards, implementation patterns, and quality guardrails across multiple teams.
 - Frequently operated beyond the traditional individual contributor role by providing technical leadership, coordinating delivery, mentoring engineers, and partnering with engineering leadership.
@@ -91,7 +91,7 @@ Leading frontend platform evolution following the acquisition of the SessionM bu
 
 - Established frontend engineering standards, implementation patterns, code quality guardrails, and self-review practices that improved consistency, reduced production defects, and increased delivery confidence.
 
-- Designed and developed a self-service deployment platform that unified standalone module releases and navigation management into a single React/Vite application backed by an Express service layer. Reduced deployment and navigation update time by **over 85%** (≈4 hours → <30 minutes), eliminating repetitive manual workflows and improving developer productivity.
+- Designed and developed a self-service deployment platform that unified standalone module releases and navigation management into a single React/Vite application backed by an Express service layer. Reduced deployment and navigation update time by over 85% (≈4 hours → <30 minutes), eliminating repetitive manual workflows and improving developer productivity.
 
 - Led adoption of Claude Code, replacing GitHub Copilot and developing Jira/GitLab workflow automation that reduced manual engineering overhead and accelerated onboarding.
 
