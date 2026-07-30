@@ -2,7 +2,7 @@
 # Rebuild PDFs whenever cv.md or a versions/*.md file is staged, so a
 # committed PDF can never go stale relative to its markdown source.
 
-if git diff --cached --name-only | grep -qE '^(cv\.md|versions/.*\.md)$'; then
+if git diff --cached --name-only | grep -E '^(cv\.md|versions/.*\.md)$' | grep -qv 'README\.md$'; then
 	echo "cv.md or a variant changed — rebuilding PDFs..."
 	make pdf pdf-em pdf-concise || exit 1
 	git add pdf/*.pdf
