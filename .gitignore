@@ -11,3 +11,7 @@
 *.log
 *.out
 *.toc
+
+# Cover letters are per-application and personal - keep local only
+cover-letters/*
+!cover-letters/README.md

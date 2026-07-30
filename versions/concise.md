@@ -10,7 +10,7 @@ notes: |
 tagline: Lead UI Engineer | Frontend Platform Engineering | React • TypeScript • Frontend Architecture
 location: Prague, Czech Republic
 linkedin: https://linkedin.com/in/artem-matiushenko-a0a848116
-margin: 0.65in
+margin: 0.5in
 ---
 
 # Artem Matiushenko

@@ -11,6 +11,7 @@ notes: |
 tagline: Lead UI Engineer | Technical Delivery & Engineering Planning | Frontend Platform Engineering
 location: Prague, Czech Republic
 linkedin: https://linkedin.com/in/artem-matiushenko-a0a848116
+margin: 0.5in
 ---
 
 # Artem Matiushenko
