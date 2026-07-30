@@ -7,7 +7,4 @@ Staff/Principal/Platform Architect are all the same IC-technical-leadership pitc
 Variants:
 
 - [`engineering-manager.md`](engineering-manager.md) — delivery and planning ownership (headcount/team-composition planning, technical interviewing, estimation, scope trade-offs, prioritisation). No direct reports or performance-review experience yet, so it's framed around delivery/planning, not people management — update this variant if that changes.
-
-Planned:
-
-- `concise.md` — one-page version, for quick-apply situations
+- [`concise.md`](concise.md) — one-page trim of `cv.md` for quick-apply situations. Older roles compressed into a single line; no new facts.
