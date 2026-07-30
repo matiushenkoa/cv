@@ -1,6 +1,6 @@
 ---
 name: Artem Matiushenko
-version: 1.0
+version: 1.1
 role: Lead UI Engineer
 target:
   - Staff Frontend Engineer
