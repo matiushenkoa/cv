@@ -11,7 +11,7 @@ notes: |
 tagline: Lead UI Engineer | Technical Delivery & Engineering Planning | Frontend Platform Engineering
 location: Prague, Czech Republic
 linkedin: https://linkedin.com/in/artem-matiushenko-a0a848116
-margin: 0.5in
+margin: 0.4in
 ---
 
 # Artem Matiushenko
@@ -169,6 +169,13 @@ Played a key role in modernising the frontend platform supporting enterprise cus
 - Developed responsive web applications and interactive prototypes.
 
 - Worked closely with designers and backend developers to deliver customer solutions.
+
+
+## Front-End Developer – Freelance (Self-Employed) | March 2013 – September 2013
+
+- Developed responsive UI for websites and CMS templates (Joomla).
+
+- Delivered high-quality HTML/CSS solutions for multiple client websites.
 
 
 # Education

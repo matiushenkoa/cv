@@ -10,7 +10,7 @@ notes: |
 tagline: Lead UI Engineer | Frontend Platform Engineering | React • TypeScript • Frontend Architecture
 location: Prague, Czech Republic
 linkedin: https://linkedin.com/in/artem-matiushenko-a0a848116
-margin: 0.5in
+margin: 0.4in
 ---
 
 # Artem Matiushenko
@@ -50,7 +50,7 @@ Frontend Architecture • Platform Engineering • Design Systems • Micro Fron
 
 - Owned frontend architecture across multiple engineering teams, designed a shared Design System adopted across 5+ product teams, and unified 4+ fragmented legacy tech stacks, doubling developer productivity.
 
-**Earlier Roles (2013–2022):** Senior Software Engineer at **Mastercard (SessionM)** • Senior Software Developer & Front-End Developer at **4finance** • Front-End Developer at **Turumburum** and **UpSale** — React/React Native development, legacy modernisation, and mentoring.
+**Earlier Roles (2013–2022):** Senior Software Engineer at **Mastercard (SessionM)** • Senior Software Developer & Front-End Developer at **4finance** • Front-End Developer at **Turumburum**, **UpSale**, and freelance — React/React Native development, legacy modernisation, and mentoring.
 
 
 **Education & Languages:** Master's Degree, Kharkiv National University of Radioelectronics • English (Professional) • Ukrainian (Native) • Czech (B1)
