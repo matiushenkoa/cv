@@ -2,9 +2,12 @@
 
 Role-tailored CVs derived from [`../cv.md`](../cv.md). Each file re-weights emphasis for a specific target role without inventing new facts.
 
-Planned variants:
+Staff/Principal/Platform Architect are all the same IC-technical-leadership pitch as [`../cv.md`](../cv.md) — not worth maintaining as separate near-duplicate files. Use `cv.md` directly for those applications.
 
-- `staff.md` — platform engineering focus
-- `principal.md` — architecture and cross-org influence focus
-- `engineering-manager.md` — coordination, mentoring, delivery focus
-- `concise.md` — one-page version
+Variants:
+
+- [`engineering-manager.md`](engineering-manager.md) — delivery and planning ownership (headcount/team-composition planning, technical interviewing, estimation, scope trade-offs, prioritisation). No direct reports or performance-review experience yet, so it's framed around delivery/planning, not people management — update this variant if that changes.
+
+Planned:
+
+- `concise.md` — one-page version, for quick-apply situations

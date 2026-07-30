@@ -1,26 +1,21 @@
 ---
 name: Artem Matiushenko
-version: 1.0
-role: Lead UI Engineer
-target:
-  - Staff Frontend Engineer
-  - Principal Frontend Engineer
-  - Frontend Platform Engineer
-  - Frontend Architect
+variant: Engineering Manager — Delivery & Planning Track
+derived_from: cv.md
 
-notes:
-  This is the canonical career document.
-  Tailored CVs should be generated from this file.
-  Prefer highlighting platform engineering, architecture, technical leadership, and measurable business impact over exhaustive technology lists.
+notes: |
+  Role-tailored variant for Engineering Manager applications, framed honestly around delivery ownership and planning rather than formal people management.
+  No direct reports and no performance-review experience — do not overstate this as people management.
+  Real facts to lean on: headcount/team-composition planning, technical interviewing, delivery estimation, scope trade-offs under changing requirements, prioritisation of critical vs. droppable scope, partial/phased delivery.
 
-tagline: Lead UI Engineer | Frontend Platform Engineering | React • TypeScript • Frontend Architecture
+tagline: Lead UI Engineer | Technical Delivery & Engineering Planning | Frontend Platform Engineering
 location: Prague, Czech Republic
 linkedin: https://linkedin.com/in/artem-matiushenko-a0a848116
 ---
 
 # Artem Matiushenko
 
-Lead UI Engineer | Frontend Platform Engineering | React • TypeScript • Frontend Architecture
+Lead UI Engineer | Technical Delivery & Engineering Planning | Frontend Platform Engineering
 
 📍 Prague, Czech Republic
 
@@ -29,30 +24,30 @@ LinkedIn: https://linkedin.com/in/artem-matiushenko-a0a848116
 
 # Professional Summary
 
-Lead UI Engineer specialising in Frontend Platform Engineering, with 12+ years of experience modernising enterprise SaaS applications and enabling engineering organisations through scalable architecture, shared platforms, and developer tooling.
+Lead UI Engineer with 12+ years of experience combining deep technical ownership with engineering delivery planning. I plan team composition and hiring needs, drive sprint and roadmap planning, manage scope trade-offs as requirements change, and make prioritisation calls on what's critical versus what can be dropped or delivered in phases—while remaining hands-on and technically accountable for architecture.
 
-I operate at the intersection of engineering, product, and architecture—leading technical strategy, unifying fragmented systems, and building platform capabilities that increase engineering productivity across multiple teams, while remaining a hands-on engineer.
+I operate at the intersection of engineering, product, and delivery—translating technical strategy into realistic plans, and keeping delivery on track when scope or requirements shift.
 
 
 # Career Highlights
 
-- 12+ years building enterprise frontend platforms and SaaS products.
-- Led frontend architecture for enterprise customer engagement platforms serving global organisations.
-- Built and scaled a company-wide Design System adopted across 5+ engineering teams.
+- Planned team composition and headcount needs based on roadmap and delivery requirements, and partnered in hiring through technical interviewing.
+- Owned delivery planning across cross-functional initiatives—estimating scope, adapting to changing requirements, and prioritising critical work over droppable or deferrable scope, including partial/phased delivery when needed.
+- Coordinated sprint planning, engineering delivery, and day-to-day technical execution while remaining a hands-on engineering contributor.
 - Unified 4+ fragmented tech stacks into a single React/TypeScript platform, doubling frontend developer productivity and improving platform stability, onboarding, and support.
-- Reduced deployment workflows by **over 85%** (≈4 hours → <30 minutes) by designing and building a self-service deployment platform.
-- Led adoption of AI-assisted development, including Claude Code migration and engineering workflow automation.
+- Reduced deployment workflows by **over 85%** (~4 hours -> <30 minutes) by designing and building a self-service deployment platform.
 - Defined frontend engineering standards, implementation patterns, and quality guardrails across multiple teams.
-- Frequently operated beyond the traditional individual contributor role by providing technical leadership, coordinating delivery, mentoring engineers, and partnering with engineering leadership.
+- Led adoption of AI-assisted development, including Claude Code migration and engineering workflow automation.
 
 
-# Technical Leadership
+# Delivery & Team Planning
 
-- Defined frontend architecture for a multi-team enterprise SaaS platform.
-- Drove platform modernisation and frontend technology strategy.
-- Built shared engineering capabilities adopted across multiple teams.
-- Mentored engineers and influenced engineering practices across the organisation.
-- Partnered with Product, Design, and Backend leadership to align platform direction.
+- Planned headcount and team composition (skill mix and seniority) against roadmap and delivery needs.
+- Partnered in engineering hiring through technical interviewing.
+- Owned delivery estimation and scope planning, adapting priorities as requirements changed mid-flight.
+- Made prioritisation calls on critical vs. non-critical scope, including partial and phased delivery when full scope wasn't feasible.
+- Coordinated sprint planning and day-to-day engineering delivery across teams.
+- Mentored engineers through technical guidance and code review.
 
 
 # Skills
@@ -75,7 +70,7 @@ REST • GraphQL • AWS • Datadog • Mixpanel
 
 ## Hiring
 
-Technical Interviewing
+Technical Interviewing • Headcount & Team Composition Planning
 
 
 # Professional Experience
@@ -90,7 +85,7 @@ Leading frontend platform evolution following the acquisition of the SessionM bu
 
 - Established frontend engineering standards, implementation patterns, code quality guardrails, and self-review practices that improved consistency, reduced production defects, and increased delivery confidence.
 
-- Designed and developed a self-service deployment platform that unified standalone module releases and navigation management into a single React/Vite application backed by an Express service layer. Reduced deployment and navigation update time by **over 85%** (≈4 hours → <30 minutes), eliminating repetitive manual workflows and improving developer productivity.
+- Designed and developed a self-service deployment platform that unified standalone module releases and navigation management into a single React/Vite application backed by an Express service layer. Reduced deployment and navigation update time by **over 85%** (~4 hours -> <30 minutes), eliminating repetitive manual workflows and improving developer productivity.
 
 - Led adoption of Claude Code, replacing GitHub Copilot and developing Jira/GitLab workflow automation that reduced manual engineering overhead and accelerated onboarding.
 
